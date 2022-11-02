@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    
+}
+.card{
+    background-color: white;
+    width: 14.375rem;
+    height: 22.813rem;
+    display: inline-block;
+    position: absolute;
+    border-radius: 5%;
+     top: 7.313rem;
+     left: 32.813rem;
+   
+}
+
+img{
+    left: 0.938rem;
+    top: 0.938rem;
+    position: absolute;
+    border-radius: 5%;
+}
+
+.t1{ position: absolute;
+    top: 13.75rem;
+    text-align: center;
+    font-size: 15px;
+    font-family:'Outfit', sans-serif;
+    font-weight: 700 ;
+    
+}
+.t2{
+    position: absolute;
+    top: 17.5rem;
+    text-align: center;
+    font-size: 12px;
+    font-family:'Outfit', sans-serif;
+    font-weight: 200 ;
+    color: #caccd0;
+    border: 4px black;
+    
+}
